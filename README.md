@@ -8,6 +8,6 @@
     1. Install python from http://python.org
     2. Open CMD (in windows, bash - linux and mac) and type:
        "pip install selenium"
-    3. Open `<StartScript.py>` and change "login", "password" and "path" variables.
+    3. Open '<StartScript.py>' and change "login", "password" and "path" variables.
     4. Save and close
     5. Run the script
